@@ -1,0 +1,53 @@
+.Footer{
+    background-color: rgb(22, 21, 23);
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.contentFooterTop{
+    background-color: rgb(36, 36, 36);
+    color: rgb(255, 255, 255);
+    padding: 100px 200px;
+}
+
+.TopContentQ{
+    margin-bottom: 70px;
+    font-family: "Gilroy-Regular",sans-serif;
+    font-size: 17px;
+    line-height: 26px;
+    letter-spacing: 0.65px;
+    color: black;
+    opacity: 1;
+}
+
+.TopContentQ h2{
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 0.75px;
+    line-height: 22px;
+    margin-bottom: 24px;
+    color: rgb(255, 255, 255);
+    opacity: 0.9;
+}
+
+.TopContentQ p{
+    font-size: 18px;
+    letter-spacing: 0.75px;
+    line-height: 33px;
+    color: rgb(255, 255, 255);
+    opacity: 0.7;
+    margin-bottom: 0px !important;
+}
+
+hr{
+    border: 1px solid rgb(187, 187, 187);
+    opacity: 0.4;
+    margin-bottom: 50px;
+}
+
+.contentFooterBottom{
+    padding: 100px 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 70px;
+}

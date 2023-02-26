@@ -1,0 +1,67 @@
+.SectionFive{
+    background-color: rgb(26, 97, 233);
+    color: rgb(248, 248, 248);
+    width: 100vw;
+    min-height: 100vh;
+    position: relative;
+    padding: 240px 200px 180px;
+    background-image: url("https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.h1five{
+    font-size: 100px;
+    font-family: 'Gilroy-bold',sans-serif;
+    letter-spacing: -3.15px;
+    line-height: 96px;
+    white-space: pre-line;
+    opacity: 0.9;
+    color: rgb(248, 248, 248);
+    font-weight: bold;
+}
+
+.pfive{
+    font-size: 32px;
+    font-family: 'Gilroy-bold',sans-serif;
+    font-weight: bold;
+    letter-spacing: -0.2px;
+    line-height: 38px;
+    white-space: pre-line;
+    max-width: 630px;
+    margin-top: 16px;
+}
+
+.never{
+    font-size: 18px;
+    font-family: 'Gilroy-bold',sans-serif;
+    font-weight: bold;
+    line-height: 28px;
+    letter-spacing: 0px;
+    white-space: pre-line;
+    max-width: 630px;
+    margin-bottom: 40px
+}
+
+.Experience_btn{
+    display: inline-flex;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    pointer-events: auto;
+    text-align: center;
+    padding: 20px 65px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 24px;
+    font-family: 'Gilroy-bold',sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+    line-height: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+}
